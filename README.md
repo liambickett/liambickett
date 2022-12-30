@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @liambickett
 - 👀 I’m interested in finance, marketing, and programming
-- 🌱 I’m currently marketing
 - 📫 How to reach me ... liam@arc-creative.co
 
 <!---
